@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "szzsa.ro.scoreboard"
+        applicationId "ro.szzsa.scoreboard"
         minSdkVersion 10
         targetSdkVersion 23
         versionCode 1

@@ -1,4 +1,4 @@
-package szzsa.ro.scoreboard;
+package ro.szzsa.scoreboard;
 
 import android.support.v4.app.Fragment;
 import android.os.Bundle;
