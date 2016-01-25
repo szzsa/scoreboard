@@ -1,2 +1,2 @@
-# scoreboard
-Scoreboard for board and card games
+# scorekeeper
+Score keeper for board and card games
